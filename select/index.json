@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "병 (LOVESICK)",
+  "base_artist": "TREASURE",
+  "createdAt": "2026-02-28T03:40:39.403785Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "병 (LOVESICK)",
+      "artist": "Treasure",
+      "has_synced": true,
+      "path": "select/01_병_(LOVESICK)_Treasure.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "병",
+      "artist": "이적",
+      "has_synced": false,
+      "path": "select/02_병_이적.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "병 Dis-ease",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/03_병_Dis-ease_BTS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dis-ease (병)",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/04_Dis-ease_(병)_BTS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "사랑이 죽는 병 Love Disease",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/05_사랑이_죽는_병_Love_Disease_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "사랑이 죽는 병 (Love Disease)",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/06_사랑이_죽는_병_(Love_Disease)_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Winter Ache (with Lee Ye Rin) (겨울의 병 (with 이예린))",
+      "artist": "Kim Hyunchang",
+      "has_synced": true,
+      "path": "select/07_Winter_Ache_(with_Lee_Ye_Rin)_(겨울의_병_(with_이예린))_Kim_Hyunchang.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "사랑 그 몹쓸 병",
+      "artist": "휘성",
+      "has_synced": false,
+      "path": "select/08_사랑_그_몹쓸_병_휘성.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": ". . . 정 신 병 자 러 브 . . .",
+      "artist": "어둠속성모노사파",
+      "has_synced": false,
+      "path": "select/09_._._._정_신_병_자_러_브_._._._어둠속성모노사파.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sickness (병) (feat.PLEDIS GIRLZ)",
+      "artist": "Vernon(버논)",
+      "has_synced": true,
+      "path": "select/10_Sickness_(병)_(feat.PLEDIS_GIRLZ)_Vernon(버논).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": ". . . 정 신 병 자 러 브 . . .",
+      "artist": "nomo sapa",
+      "has_synced": false,
+      "path": "select/11_._._._정_신_병_자_러_브_._._._nomo_sapa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVESICK",
+      "artist": "TREASURE",
+      "has_synced": false,
+      "path": "select/pl_01_LOVESICK_TREASURE.txt"
+    }
+  ]
+}
